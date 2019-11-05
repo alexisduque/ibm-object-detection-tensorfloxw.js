@@ -1,0 +1,4 @@
+buckets:
+  training: tensorflow.js-devoxx
+  output: tensorflow.js-devoxx
+name: tensorflow.js-devoxx
